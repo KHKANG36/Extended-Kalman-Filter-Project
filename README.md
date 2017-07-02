@@ -1,4 +1,4 @@
-**Extended kalman filter project for vehicle lidar & radar sensor fusion**
+#**Extended kalman filter project for vehicle lidar & radar sensor fusion**
 
 This is a project for Udacity Self-Driving Car Nanodegree program. In this project, I utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. All codes are written with C++ and tested on the Udacity simulator 
 
